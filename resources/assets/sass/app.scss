@@ -1,0 +1,41 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+$fa-font-path: "../webfonts";
+
+
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap.scss';
+
+// Material design for Laravel Colors
+
+
+// Admin-lte 3
+@import '~admin-lte/dist/css/adminlte.css';
+
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
+
+
+@import "~icheck/skins/square/blue.css";
+
+
+@import "~toastr/toastr.scss";
+
+// pace-progress
+@import "~@dlghq/pace-progress/themes/blue/pace-theme-minimal.css";
+
+
+/* Datatables.net */
+@import "~datatables.net-bs4/css/dataTables.bootstrap4.min.css";
+
+
+/* Datatables.net buttons*/
+@import "~datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css";
+
+
+/* Datatables.net responsive*/
+@import "~datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css";
+
+/* Bootstrap slider*/
+@import "~bootstrap-slider/dist/css/bootstrap-slider.min.css";
